@@ -1,7 +1,8 @@
 """
 Given a singly linked list of integers, determine whether or not it's a palindrome.
 
-Note: in examples below and tests preview linked lists are presented as arrays just for simplicity of visualization: in real data you will be given a head node l of the linked list
+Note: in examples below and tests preview linked lists are presented as arrays
+just for simplicity of visualization: in real data you will be given a head node l of the linked list
 
 Example
 

@@ -1,5 +1,7 @@
 """
-Given two singly linked lists sorted in non-decreasing order, your task is to merge them. In other words, return a singly linked list, also sorted in non-decreasing order, that contains the elements from both original lists.
+Given two singly linked lists sorted in non-decreasing order, your task is to merge them.
+In other words, return a singly linked list,
+also sorted in non-decreasing order, that contains the elements from both original lists.
 
 Example
 
